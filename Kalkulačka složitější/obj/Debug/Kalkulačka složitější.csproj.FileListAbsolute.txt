@@ -1,0 +1,7 @@
+C:\Users\Hasak.On.2022\Documents\Kalkulačka složitější\Kalkulačka složitější\obj\Debug\Kalkulačka složitější.csprojAssemblyReference.cache
+C:\Users\Hasak.On.2022\Documents\Kalkulačka složitější\Kalkulačka složitější\obj\Debug\Kalkulačka složitější.csproj.CoreCompileInputs.cache
+C:\Users\Hasak.On.2022\Documents\Kalkulačka složitější\Kalkulačka složitější\bin\Debug\Kalkulačka složitější.exe.config
+C:\Users\Hasak.On.2022\Documents\Kalkulačka složitější\Kalkulačka složitější\bin\Debug\Kalkulačka složitější.exe
+C:\Users\Hasak.On.2022\Documents\Kalkulačka složitější\Kalkulačka složitější\bin\Debug\Kalkulačka složitější.pdb
+C:\Users\Hasak.On.2022\Documents\Kalkulačka složitější\Kalkulačka složitější\obj\Debug\Kalkulačka složitější.exe
+C:\Users\Hasak.On.2022\Documents\Kalkulačka složitější\Kalkulačka složitější\obj\Debug\Kalkulačka složitější.pdb
